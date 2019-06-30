@@ -1,0 +1,4 @@
+The NOTICES file is provided to give thanks and acknowledge the works of others in committment to this program.
+
+Lines 21-38 in the ScreenInvert.cpp file were provided by user Castorix (https://github.com/brandonybutler/ScreenInvert) in response
+to my Stack Overflow question at (https://stackoverflow.com/questions/56626942/how-to-invert-the-entire-screen-colours-using-the-windows-magnification-api).
